@@ -1,6 +1,9 @@
 {
   "name": "cr-app",
   "version": "1.0.0",
+  "engines": {
+  "node": "v8.9.3"
+},
   "main": "index.js",
   "author": "Adam Bugaj",
   "license": "MIT",
